@@ -1,0 +1,6 @@
+local ver, script = loadstring(game:HttpGet(("https://pastebin.com/LY24ufcg"),true))()
+if ver then
+loadstring(game:HttpGet(("https://pastebin.com/LY24ufcg"),true))()
+else
+playerToKick:Kick("The link to github is incorrect!.")
+end
